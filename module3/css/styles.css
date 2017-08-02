@@ -1,0 +1,47 @@
+h1,h2,h3{
+	color: black;
+	font-weight: bold;
+}
+
+p{
+	color: black;
+	font-weight: normal;
+}
+
+.navbar-brand h1{
+	color : black;
+	margin-top: -10px;
+}
+
+.menu_item{
+	background-color: #a6a6a6;
+	padding: 20px;
+	margin: 25px;
+}
+
+#header-nav {
+  	background-color: #a6a6a6;
+  	border-radius: 0; 
+  	border: solid black 1px;
+}
+
+#collapsable-nav{
+	background-color: white
+	border: 1px solid black;
+  	padding-right: 0px;
+  	padding-left: 0px;
+}
+
+#collapsable-nav a:link, #collapsable-nav a:hover, #collapsable-nav a:active, #collapsable-nav a:visited {
+  	text-decoration: none;
+  	color: black;
+}
+
+#collapsable-nav ul{
+	margin: auto;
+}
+
+#collapsable-nav li{
+  	border: 1px solid black;
+  	background-color: white;
+}
